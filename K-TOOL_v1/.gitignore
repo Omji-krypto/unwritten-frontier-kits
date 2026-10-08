@@ -1,0 +1,11 @@
+# Kits de The Unwritten Frontier · nunca al repositorio público
+comandos.json
+SAL_*
+*.cact
+*.wav
+*.m4a
+resultados_*.json
+*_proceso*.json
+!*_publico.json
+.venv/
+__pycache__/
